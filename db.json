@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learn React",
+      "day": "5 feb 2022",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Learn React testing library",
+      "day": "5 feb 2022",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Learn styled components",
+      "day": "5 feb 2022",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Learn NextJS",
+      "day": "5 feb 2022",
+      "reminder": false
+    },
+    {
+      "text": "Learn Remix",
+      "day": "01 March",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Learn Golang for backend",
+      "day": "Today",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
